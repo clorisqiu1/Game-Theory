@@ -3,7 +3,7 @@
 
 ## 📄 Contents
 
-- [🥳 New content](#🥳-New content-⏏️)
+- [🥳 News](#🥳-News-⏏️)
 - [👋 Introduction](#👋-Introduction-⏏️)
 - [📖 Courses](#📖-Courses-⏏️)
   - [🔜Quick Start](#🔜Quick Start)
@@ -12,7 +12,7 @@
 - [✅ License](#✅-License-⏏️)
 - [🏷️ citation](#🏷️-citation-⏏️)
 
-## 🥳 New content [⏏️](#📄-Contents)
+## 🥳 News [⏏️](#📄-Contents)
 - Contents added
 
 ## 👋 Introduction [⏏️](#📄-Contents)
